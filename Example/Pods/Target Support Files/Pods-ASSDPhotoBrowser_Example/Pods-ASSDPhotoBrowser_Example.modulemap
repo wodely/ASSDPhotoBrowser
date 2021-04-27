@@ -1,0 +1,6 @@
+framework module Pods_ASSDPhotoBrowser_Example {
+  umbrella header "Pods-ASSDPhotoBrowser_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

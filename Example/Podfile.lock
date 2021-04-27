@@ -1,0 +1,25 @@
+PODS:
+  - ASSDPhotoBrowser (0.1.0):
+    - SDWebImage
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - ASSDPhotoBrowser (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  ASSDPhotoBrowser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASSDPhotoBrowser: 3b6de88a2000cc636d1da6a72700c60df3f61927
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 5df3531730bf0d933b81100280b87014251cf96b
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module ASSDPhotoBrowser {
+  umbrella header "ASSDPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
